@@ -10,7 +10,7 @@
 
 ## 公式
 output = input / (bias + alpha * sqr_sum) ** beta
-
+https://img-blog.csdn.net/20170713162906129?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvc2luYXRfMjE1ODU3ODU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast
 [https://blog.csdn.net/yangdashi888/article/details/77918311](https://blog.csdn.net/yangdashi888/article/details/77918311)
 
 ## 属性（Atrributes）
@@ -58,5 +58,5 @@ expect(node, inputs=[x], outputs=[y],
 [TensorFlow 参考https://blog.csdn.net/banana1006034246/article/details/75204013](https://blog.csdn.net/banana1006034246/article/details/75204013)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTUwNDkwOF19
+eyJoaXN0b3J5IjpbLTEzMzQyMzQyODEsLTIyMTUwNDkwOF19
 -->
