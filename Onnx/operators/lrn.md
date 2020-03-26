@@ -53,10 +53,10 @@ expect(node, inputs=[x], outputs=[y],
 
 ## 注意
 - tensorflow 对shape的解释为N*H*W*C 与标准不一致
-- 柿子种alpha / nsize这个缩放因子不一致
+- 公式中 alpha / nsize这个缩放因子不一致
 
 [TensorFlow 参考https://blog.csdn.net/banana1006034246/article/details/75204013](https://blog.csdn.net/banana1006034246/article/details/75204013)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjgyNDU2NTRdfQ==
+eyJoaXN0b3J5IjpbLTIyMTUwNDkwOF19
 -->
